@@ -8,3 +8,5 @@ How to Use
 ========
 1, git clone git@github.com:zacard-orc/RhineMid.git  
 2, npm install //It based on MongoDB (configuration DB),Mysql (Busi DB),EventProxy  
+3, Configure Route DB.Just see the ~/egpic/001.png  
+4, Configure DB connection.Just see the ~/egpic/002.png. ~/config/db.js. ~/config/dbsettings.js  
