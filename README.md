@@ -6,5 +6,5 @@ It can be support High-Performance concurrance.It can be business-configuration 
  
 How to Use
 ========
-1, git clone git@github.com:zacard-orc/RhineMid.git
+1, git clone git@github.com:zacard-orc/RhineMid.git 
 2, npm install //It based on MongoDB (configuration DB),Mysql (Busi DB),EventProxy
