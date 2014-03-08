@@ -101,9 +101,9 @@ function checkrule(db,inp,callback){
                     break;
 /*========================================返回Response===================================================*/
                 case "2":
-                    logme(inp,"I'm in ResProcess",0);
+                   // logme(inp,"I'm in ResProcess",0);
                     callback(dbsets[0].nextobj.res_body);
-                    logme(inp,"I have return ResBody",0);
+                   // logme(inp,"I have return ResBody",0);
                     break;
                 default :
             }
