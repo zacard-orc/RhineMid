@@ -1,0 +1,10 @@
+{
+"Request":{
+           "inPK": "78829930201",
+    	   "inMethord": "saveUserInfo",
+           "inParm": {
+                       "para_001": 555,
+                       "para_002": "aa"
+                      }
+          }
+}

@@ -1,0 +1,10 @@
+{
+"Request":{
+           "inPK": "78829930201",
+    	   "inMethord": "ShowRes",
+           "inParm": {
+                       "para_001": "qwer",
+                       "para_002": 555
+                      }
+          }
+}

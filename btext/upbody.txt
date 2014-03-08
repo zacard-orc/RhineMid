@@ -1,0 +1,11 @@
+{
+"Request":{
+           "inPK": "78829930201",
+    	   "inMethord": "updateUserInfo",
+           "inParm": {
+                       "para_001": "qwer",
+                       "para_002": 555
+                      }
+          }
+}
+
