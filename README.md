@@ -1,8 +1,10 @@
 RhineMid
 ========
 
-A light Useful middware by Node.Js.It support JSON I/O  MongoDB  MySQL.I use it in CMCC/Shanghai CRM/WEB/BOMC Framework.  
-It can be support High-Performance concurrance.It can be business-configuration type midware and easy to use it.
+A light Useful middware by Node.Js.It support JSON I/O  MongoDB  MySQL.  
+I use it in CMCC/Shanghai CRM/WEB/BOMC Framework.   
+It can be support High-Performance concurrance.  
+It can be business-configuration type midware and easy to use it.   
  
 How to Use
 ========
